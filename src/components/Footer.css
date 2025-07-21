@@ -1,0 +1,50 @@
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+footer .col{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+footer .logo{
+    margin-bottom: 30px;
+}
+footer h4{
+    padding-bottom: 20px;
+}
+footer p{
+    margin: 0 0 8px 0;
+}
+footer a{
+    text-decoration: none;
+    color: #222;
+    margin-bottom: 10px;
+}
+footer .follow{
+    margin-top: 20px;
+}
+footer .follow i{
+    color:rgb(84, 79, 79);
+    padding-right: 4px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+footer .install .row img{
+    border: 1px solid #088178;
+    border-radius: 6px;
+}
+.copyright{
+    width: 100%;
+    text-align: center;
+}
+footer .install img{
+    margin-right: 10px;
+}
+
+footer .follow i:hover,footer a:hover{
+    color:#088178
+}
