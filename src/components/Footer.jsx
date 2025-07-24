@@ -48,7 +48,7 @@ const Footer = () => {
             <p>Secured Payment Gateways</p>
             <img src={payImg} />
         </div>
-        <div className="copyright"><p>&copy; 2021 Tech2 etc - HTML CSS E-commerce</p></div>
+        <div className="copyright"><p>&copy; 2025 - praneshyou@gmail.com </p></div>
     </footer>
   )
 }
